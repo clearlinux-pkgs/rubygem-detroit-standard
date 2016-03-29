@@ -4,7 +4,7 @@
 #
 Name     : rubygem-detroit-standard
 Version  : 0.4.0
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/detroit-standard-0.4.0.gem
 Source0  : https://rubygems.org/downloads/detroit-standard-0.4.0.gem
 Summary  : No detailed summary available
@@ -50,17 +50,11 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/detroit-standard-0.4.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-standard-0.4.0/ri/Detroit/Standard-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-standard-0.4.0/ri/Detroit/cdesc-Detroit.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-standard-0.4.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-standard-0.4.0/ri/page-HISTORY_md.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-standard-0.4.0/ri/page-LICENSE_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-standard-0.4.0/ri/page-README_md.ri
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-standard-0.4.0/.index
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-standard-0.4.0/HISTORY.md
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-standard-0.4.0/LICENSE.txt
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-standard-0.4.0/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-standard-0.4.0/lib/detroit-standard.rb
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-standard-0.4.0/lib/detroit/standard.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/detroit-standard-0.4.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/detroit-standard-0.4.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-standard-0.4.0/.index
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-standard-0.4.0/HISTORY.md
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-standard-0.4.0/LICENSE.txt
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-standard-0.4.0/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-standard-0.4.0/lib/detroit-standard.rb
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-standard-0.4.0/lib/detroit/standard.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/detroit-standard-0.4.0.gemspec
